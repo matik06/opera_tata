@@ -1,0 +1,29 @@
+Opera Hotlist version 2.0
+Options: encoding = utf8, version=3
+
+#URL
+	ID=237
+	NAME=Przedstawię mała analizę, oparta o blog i forum – Pokazywarka.pl
+	URL=http://pokazywarka.pl/txd6nn-2/
+	CREATED=1272277512
+	DESCRIPTION=
+	UNIQUEID=06045460511E11DF9D448F6242F02EBE
+
+#FOLDER
+	ID=234
+	NAME=Kosz
+	CREATED=1272154624
+	ACTIVE=YES
+	TRASH FOLDER=YES
+	UNIQUEID=4E1601F6F30511DB9CA51FD19A7AAECA
+
+#URL
+	ID=236
+	NAME=Google
+	URL=http://www.google.pl/
+	CREATED=1272154643
+	DESCRIPTION=
+	UNIQUEID=ED04BE104FFF11DF8DF1B1E4A8B12D25
+
+-
+
