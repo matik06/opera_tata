@@ -2,15 +2,31 @@ Opera Hotlist version 2.0
 Options: encoding = utf8, version=3
 
 #URL
-	ID=237
+	ID=234
 	NAME=Przedstawię mała analizę, oparta o blog i forum – Pokazywarka.pl
 	URL=http://pokazywarka.pl/txd6nn-2/
 	CREATED=1272277512
 	DESCRIPTION=
 	UNIQUEID=06045460511E11DF9D448F6242F02EBE
 
+#URL
+	ID=237
+	NAME=Budowa mostu Rędzińskiego
+	URL=http://www.tuwroclaw.com/video,niezalezny-program-informacyjny-048,vid5-1-118.html
+	CREATED=1272665001
+	DESCRIPTION=Video wiadomości z WrocławiaNiezależny Program Informacyjny > NPI 048 - Budowa mostu Rędzińskiego - Jak postępują prace na budowie Mostu Rędzińskiego?Czy inwestycja będzie oddana planowo? - tuWroclaw.com - portal miasta Wrocław
+	UNIQUEID=36E1513054A411DF8603C67161A1E56D
+
+#URL
+	ID=239
+	NAME=Belgia - zakaz muzułmańskich zasłon twarzy
+	URL=http://www.tokfm.pl/Tokfm/1,102433,7831333,Belgia_jako_pierwszy_europejski_kraj_wprowadza_zakaz.html
+	CREATED=1272665153
+	DESCRIPTION=Belgijski parlament jednogłośnie przyjął ustawę zakazującą kobietom noszenia muzułmańskich zasłon twarzy w miejscu publicznym. Belgia jako pierwsza w Europie wprowadziła taki zakaz, rozważany także w innych krajach. Obecnie dyskusja nad podobnym projektem trwa we Francji: prace nad nim francuski rząd ma zakończyć w maju, popiera go m.in. prezydent Sarkozy.
+	UNIQUEID=96F1250054A411DF86049EB8460CFE3E
+
 #FOLDER
-	ID=234
+	ID=235
 	NAME=Kosz
 	CREATED=1272154624
 	ACTIVE=YES
