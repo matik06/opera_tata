@@ -2,7 +2,7 @@ Opera Hotlist version 2.0
 Options: encoding = utf8, version=3
 
 #URL
-	ID=234
+	ID=235
 	NAME=Przedstawię mała analizę, oparta o blog i forum – Pokazywarka.pl
 	URL=http://pokazywarka.pl/txd6nn-2/
 	CREATED=1272277512
@@ -10,7 +10,7 @@ Options: encoding = utf8, version=3
 	UNIQUEID=06045460511E11DF9D448F6242F02EBE
 
 #URL
-	ID=237
+	ID=236
 	NAME=Budowa mostu Rędzińskiego
 	URL=http://www.tuwroclaw.com/video,niezalezny-program-informacyjny-048,vid5-1-118.html
 	CREATED=1272665001
@@ -18,28 +18,44 @@ Options: encoding = utf8, version=3
 	UNIQUEID=36E1513054A411DF8603C67161A1E56D
 
 #URL
-	ID=239
+	ID=237
 	NAME=Belgia - zakaz muzułmańskich zasłon twarzy
 	URL=http://www.tokfm.pl/Tokfm/1,102433,7831333,Belgia_jako_pierwszy_europejski_kraj_wprowadza_zakaz.html
 	CREATED=1272665153
 	DESCRIPTION=Belgijski parlament jednogłośnie przyjął ustawę zakazującą kobietom noszenia muzułmańskich zasłon twarzy w miejscu publicznym. Belgia jako pierwsza w Europie wprowadziła taki zakaz, rozważany także w innych krajach. Obecnie dyskusja nad podobnym projektem trwa we Francji: prace nad nim francuski rząd ma zakończyć w maju, popiera go m.in. prezydent Sarkozy.
 	UNIQUEID=96F1250054A411DF86049EB8460CFE3E
 
+#URL
+	ID=240
+	NAME=YouTube - Jewropejskij Sojuz
+	URL=http://www.youtube.com/watch?v=tiWgQDEHchs
+	CREATED=1272822179
+	DESCRIPTION=Daniel Hannan zauważa dziwne podobieństwa między Unią Europejską a Związkiem Sowieckim.
+	UNIQUEID=2735EDD0561211DF965186C11D006456
+
+#URL
+	ID=241
+	NAME=Wizy dla USA czas wprowadzić! Koniec łaszenia się! - Informacje w Interia360.pl - wiadomości, dziennikarstwo obywatelskie
+	URL=http://interia360.pl/artykul/wizy-dla-usa-czas-wprowadzic-koniec-laszenia-sie,34273
+	CREATED=1272822459
+	DESCRIPTION=Wizy dla USA czas wprowadzić! Koniec łaszenia się! - Interia360 - Krótko o USA. Sprawdzają nas (lotniska, ambasady) jak potencjalnych terrorystów, a sami sieją nieszczęścia i wojny na wszystkich...
+	UNIQUEID=CE5262B0561211DF9652D3398F8BF45C
+
+#URL
+	ID=246
+	NAME=Akcyza po polsku - Podatki w Onet.pl
+	URL=http://podatki.onet.pl/akcyza-po-polsku,19923,3218034,1,prasa-detal
+	CREATED=1272822925
+	DESCRIPTION=Przepisy Unii Europejskiej dopuszczają obniżenie stawki  podatku akcyzowego  na  energię , płaconego przez energochłonny  przemysł . W Polsce z tej możliwości nie skorzystano.
+	UNIQUEID=E41939B0561311DF9654F1CDB56E239A
+
 #FOLDER
-	ID=235
+	ID=238
 	NAME=Kosz
 	CREATED=1272154624
 	ACTIVE=YES
 	TRASH FOLDER=YES
 	UNIQUEID=4E1601F6F30511DB9CA51FD19A7AAECA
-
-#URL
-	ID=236
-	NAME=Google
-	URL=http://www.google.pl/
-	CREATED=1272154643
-	DESCRIPTION=
-	UNIQUEID=ED04BE104FFF11DF8DF1B1E4A8B12D25
 
 -
 
