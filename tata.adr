@@ -1,8 +1,15 @@
 Opera Hotlist version 2.0
 Options: encoding = utf8, version=3
 
+#FOLDER
+	ID=236
+	NAME=stare 
+	CREATED=1272923000
+	ACTIVE=YES
+	UNIQUEID=E46473A056FC11DF85BEF5177C619714
+
 #URL
-	ID=235
+	ID=237
 	NAME=Przedstawię mała analizę, oparta o blog i forum – Pokazywarka.pl
 	URL=http://pokazywarka.pl/txd6nn-2/
 	CREATED=1272277512
@@ -10,15 +17,17 @@ Options: encoding = utf8, version=3
 	UNIQUEID=06045460511E11DF9D448F6242F02EBE
 
 #URL
-	ID=236
+	ID=238
 	NAME=Budowa mostu Rędzińskiego
 	URL=http://www.tuwroclaw.com/video,niezalezny-program-informacyjny-048,vid5-1-118.html
 	CREATED=1272665001
 	DESCRIPTION=Video wiadomości z WrocławiaNiezależny Program Informacyjny > NPI 048 - Budowa mostu Rędzińskiego - Jak postępują prace na budowie Mostu Rędzińskiego?Czy inwestycja będzie oddana planowo? - tuWroclaw.com - portal miasta Wrocław
 	UNIQUEID=36E1513054A411DF8603C67161A1E56D
 
+-
+
 #URL
-	ID=237
+	ID=239
 	NAME=Belgia - zakaz muzułmańskich zasłon twarzy
 	URL=http://www.tokfm.pl/Tokfm/1,102433,7831333,Belgia_jako_pierwszy_europejski_kraj_wprowadza_zakaz.html
 	CREATED=1272665153
@@ -42,18 +51,41 @@ Options: encoding = utf8, version=3
 	UNIQUEID=CE5262B0561211DF9652D3398F8BF45C
 
 #URL
-	ID=246
+	ID=242
 	NAME=Akcyza po polsku - Podatki w Onet.pl
 	URL=http://podatki.onet.pl/akcyza-po-polsku,19923,3218034,1,prasa-detal
 	CREATED=1272822925
 	DESCRIPTION=Przepisy Unii Europejskiej dopuszczają obniżenie stawki  podatku akcyzowego  na  energię , płaconego przez energochłonny  przemysł . W Polsce z tej możliwości nie skorzystano.
 	UNIQUEID=E41939B0561311DF9654F1CDB56E239A
 
+#URL
+	ID=243
+	NAME=Ekolodzy oszukują ludzi w sprawie zmian klimatu
+	URL=http://www.bibula.com/?p=11755
+	CREATED=1272923070
+	DESCRIPTION=
+	UNIQUEID=17B114C056FD11DF85BF8C2E37F8470D
+
+#URL
+	ID=244
+	NAME=Kraj, którego nie chcą już sami obywatele
+	URL=http://www.dziennik.pl/swiat/article599022/Kraj_ktorego_nie_chca_juz_sami_obywatele.html
+	CREATED=1272974764
+	DESCRIPTION=Upadek belgijskiego rządu może okazać się końcem istniejącego od 180 lat państwa. To byłby precedens dla innych regionów Europy. Belgijscy prawnicy i politycy, z dala od świateł jupiterów, zastanawiają się już zresztą, jak miałby wyglądać pierwszy w historii Unii Europejskiej rozpad kraju członkowskiego.
+	UNIQUEID=734F4810577511DF9F11E468FDF05965
+
+#URL
+	ID=246
+	NAME=Żarówki energooszczędne
+	URL=http://rafalkosik.com/zarowki-energooszczedne
+	CREATED=1273017928
+	DESCRIPTION=
+	UNIQUEID=F05D99B057D911DF863B882D5D0425CE
+
 #FOLDER
-	ID=238
+	ID=245
 	NAME=Kosz
 	CREATED=1272154624
-	ACTIVE=YES
 	TRASH FOLDER=YES
 	UNIQUEID=4E1601F6F30511DB9CA51FD19A7AAECA
 
