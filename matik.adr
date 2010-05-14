@@ -1,0 +1,1531 @@
+Opera Hotlist version 2.0
+Options: encoding = utf8, version=3
+
+#FOLDER
+	ID=25
+	NAME=Kosz
+	CREATED=1273157025
+	TRASH FOLDER=YES
+	DELETABLE=NO
+	UNIQUEID=14C645A5B8A3470FB3B52CC32C97E2B8
+
+#URL
+	ID=26
+	NAME=Download Opera
+	URL=http://www.opera.com/download/
+	CREATED=1273157025
+	UNIQUEID=1E1142BB54F648238B9236643A3183C0
+
+#URL
+	ID=27
+	NAME=My Opera Community
+	URL=http://my.opera.com/
+	CREATED=1273157025
+	UNIQUEID=1C5D1DBE78A544968A9D1AED2CD404D5
+
+#URL
+	ID=28
+	NAME=Opera Web Mail
+	URL=http://www.operamail.com/
+	CREATED=1273157025
+	UNIQUEID=14C035E2CF2A45BAA7365D360D51DA8F
+
+#URL
+	ID=29
+	NAME=Support Desk
+	URL=http://www.opera.com/support/
+	CREATED=1273157025
+	UNIQUEID=3D20CEFF1F8343F0B942FFB93A96DEEA
+
+#URL
+	ID=30
+	NAME=php
+	CREATED=1243700683
+	UNIQUEID=65383A104D3611DE8442F01F88C33DF5
+
+#FOLDER
+	ID=31
+	CREATED=1249326413
+	UNIQUEID=CE9AA2B0806011DE8BA5E49C8DB60EA9
+
+-
+
+#FOLDER
+	ID=32
+	NAME=Opera
+	CREATED=1273157025
+	UNIQUEID=CFF0FB2AB8F0403BB524F77EF43A30E3
+
+-
+
+#FOLDER
+	ID=33
+	NAME=blendery
+	CREATED=1243765187
+	DESCRIPTION=Wpisz nazwę folderu, który ma zostać utworzony w folderze „Zakładki”.
+	UNIQUEID=911B0DB04DCC11DE8A5A89A989B98FF7
+
+#URL
+	ID=34
+	NAME=~TOHRH2~WYSOKIEJKLASY BLENDER PHILIPS HR 2074 600W (644349895)  - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item644349895_tohrh2_wysokiejklasy_blender_philips_hr_2074_600w.html
+	CREATED=1243765178
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=92FD89504DCC11DE8A5BD08A4A3F7554
+
+#URL
+	ID=35
+	NAME=Mikser Blender Zelmer 32Z010  Kruszy Lód (647955609)  - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item647955609_mikser_blender_zelmer_32z010_kruszy_lod.html
+	CREATED=1243765212
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=A13955D04DCC11DE8A5C833AAF9141AF
+
+#URL
+	ID=36
+	NAME=BLENDER ROBOT MIKSER BRAUN MR 4000 R POJEMNIK 450W (647323656)  - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item647323656_blender_robot_mikser_braun_mr_4000_r_pojemnik_450w.html
+	CREATED=1243765231
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=AC9ED0D04DCC11DE8A5D8B972D5BF155
+
+#URL
+	ID=37
+	NAME=MIXER ROBOT BLENDER  ARDO FR85   OKAZJA!!! (647773212)  - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item647773212_mixer_robot_blender_ardo_fr85_okazja.html
+	CREATED=1243765383
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=0762E6504DCD11DE8A5EF2CEA9C2E1B9
+
+#URL
+	ID=38
+	NAME=BLENDER STOJĄCY MPM BL-747 INOX + SZKŁO 400W (648079654)  - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item648079654_blender_stojacy_mpm_bl_747_inox_szklo_400w.html
+	CREATED=1243765517
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=5720B7D04DCD11DE8A5FD0E1E0BAF264
+
+#URL
+	ID=39
+	NAME=Niezawodny! Mikser Blender ZELMER ! DO TRUSKAWEK ! (648803160)  - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item648803160_niezawodny_mikser_blender_zelmer_do_truskawek.html
+	CREATED=1243765579
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=7C5986D04DCD11DE8A609AED2D25EEE8
+
+#URL
+	ID=40
+	NAME=BLENDER STOJĄCY ZELMER 32Z010 INOX+SZKŁO 2kolory (648108933)  - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item648108933_blender_stojacy_zelmer_32z010_inox_szklo_2kolory.html
+	CREATED=1243765593
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=848904204DCD11DE8A61EF8D74CCFD9F
+
+-
+
+#URL
+	ID=41
+	NAME=Amazon.com
+	URL=http://www.amazon.com/exec/obidos/redirect-home/opera-20
+	CREATED=1273157025
+	UNIQUEID=5BA19040AEBE4CBEA52883D77DBB7B69
+
+#URL
+	ID=42
+	NAME=Ask.com
+	URL=http://www.ask.com/?o=101483&l=dis
+	CREATED=1273157025
+	UNIQUEID=A37473A7ADB44B7098D18E89512AA1A5
+
+#URL
+	ID=43
+	NAME=Download.com
+	URL=http://www.download.com/
+	CREATED=1273157025
+	UNIQUEID=F2B8998A68914F19AF77ABD3818A9DC6
+
+#URL
+	ID=44
+	NAME=Jaki "oryginalny" prezent dla koleżanki? Zapytaj.com.pl - Masz Pytanie? My mamy Odpowiedź!
+	URL=http://zapytaj.com.pl/Category/001,003/2,43774,Jaki_quotoryginalnyquot_prezent_dla_kolezanki.html
+	CREATED=1244237494
+	DESCRIPTION=Ile kosztuje? Jak długo? Dlaczego? Skąd się bierze? Zapytaj.com.pl pomoże znaleźć odpowiedzi na każde Twoje pytanie.
+	UNIQUEID=3F7E7B40521811DE897C9761B746DF66
+
+#URL
+	ID=45
+	NAME=Kelkoo
+	URL=http://www.kelkoo.com/
+	CREATED=1273157025
+	UNIQUEID=A174C3D329724E6A929BCEE87AB8867A
+
+#URL
+	ID=46
+	NAME=Music !
+	URL=http://www.ouverture-facile.com/riddles/4level.htm
+	CREATED=1251321053
+	UNIQUEID=F3765350928411DE9CCD915FCE45CF9A
+
+#URL
+	ID=47
+	NAME=Wikipedia
+	URL=http://en.wikipedia.org/wiki/Main_Page
+	CREATED=1273157025
+	UNIQUEID=76FF0BDF38414EA68C42983AE05B0B8E
+
+#URL
+	ID=48
+	NAME=Czechy
+	CREATED=1254994124
+	UNIQUEID=06F0A9B0B3ED11DE85A9AA10C3930A5D
+
+#URL
+	ID=49
+	NAME=eBay
+	URL=http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=1&campid=5335916468&toolid=10001&customid=opera
+	CREATED=1273157025
+	UNIQUEID=EAC6AA1AA25A4AA9A369F5693790F697
+
+#URL
+	ID=50
+	NAME=Internet jako środek promocji oraz element konkurencyjności firm w dobie globalizacji
+	URL=http://www.zti.com.pl/instytut/pp/referaty/ref5_full.html
+	CREATED=1258494740
+	UNIQUEID=7E793650D3C311DE861D85AA69DA7A47
+
+#URL
+	ID=51
+	NAME=[RS] Kursy językowe na mp3 - Strona 2 - polish:Elite:board
+	URL=http://peb.pl/nauka-i-technika/542725-rapidshare-kursy-jezykowe-na-mp3-2.html
+	CREATED=1247355020
+	DESCRIPTION=Język Hiszpański Kurs podstawowy Audio Kurs mp3 Kurs podstawowy przeznaczony jest dla osób początkujących, zaczynających naukę oraz tych, które chciały
+	UNIQUEID=CEEED7E06E7211DE84EE9CA39D63A3D8
+
+#URL
+	ID=52
+	NAME=Lockerz™
+	URL=http://www.lockerz.com/myLockerz
+	CREATED=1255879816
+	DESCRIPTION=LOCKERZ is a free membership site that offers original content, commerce and community for Generation Z.
+	UNIQUEID=245C55B0BBFB11DE98D8F9130BC2E3DF
+
+#URL
+	ID=53
+	NAME=delta
+	URL=http://www.rosczak.com/mlp/ai.html
+	CREATED=1264331318
+	DESCRIPTION=Implementacja i wykorzystanie wielowarstwowej sieci perceptronowej w modelowaniu makroekonomicznym
+	UNIQUEID=D443693008D811DFAC01F72A2DD6B46E
+
+#URL
+	ID=54
+	NAME=Programowanie w OpenGL pod Linux Ubuntu
+	URL=http://forum.gamedev.pl/index.php?topic=11123.0
+	CREATED=1258502926
+	DESCRIPTION=Programowanie w OpenGL pod Linux Ubuntu
+	UNIQUEID=8BEFE370D3D611DE861EF2D20D69F9AD
+
+#URL
+	ID=55
+	NAME=RSR
+	CREATED=1264634037
+	UNIQUEID=AB3604300B9911DF866FE3B240618548
+
+#URL
+	ID=56
+	NAME=Tadeusiewicz, Ryszard (1947- ), Flasiński Mariusz - Rozpoznawanie obrazów - Warszawa, 1991
+	URL=http://winntbg.bg.agh.edu.pl/skrypty/0005/main.html
+	CREATED=1259786298
+	UNIQUEID=A13E97F0DF8211DE85C8BD921E213801
+
+#URL
+	ID=57
+	NAME=..:: SIECI NEURONOWE ::..
+	URL=http://www.kik.pcz.czest.pl/nn/jednokier.php?art=2
+	CREATED=1262650448
+	UNIQUEID=3EB87890F98F11DE8661B1480893B4D6
+
+#URL
+	ID=58
+	NAME=686 CRYSTAL COLECTION SIX EIGHT SIX snow. roz.L (842518639) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item842518639_686_crystal_colection_six_eight_six_snow_roz_l.html
+	CREATED=1260641733
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=580DF740E74A11DE85AAED763F713ABE
+
+#URL
+	ID=59
+	NAME=Allegro.pl - aukcje internetowe, bezpieczne zakupy
+	URL=http://www.allegro.pl/listing/search.php?string=neverland&from_showcat=1&category=16507
+	CREATED=1260831581
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=625BFBF0E90411DE85EFCDC829423869
+
+#URL
+	ID=60
+	NAME=Allegro.pl - aukcje internetowe, bezpieczne zakupy
+	URL=http://allegro.pl/listing/search.php?sg=0&order=bd&string=Aronson
+	CREATED=1262484020
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=C22077D0F80B11DE86009E6DC0F2BB89
+
+#URL
+	ID=61
+	NAME=KĄPIELÓWKI MĘSKIE - BOKSERKI - SPODENKI ROZ. XL (785473817) - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item785473817_kapielowki_meskie_bokserki_spodenki_roz_xl.html
+	CREATED=1257538732
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=9C757700CB1111DE868E8E85E695819E
+
+#URL
+	ID=62
+	NAME=NEVERLAND Rękawice HUMMER z usztywnieniem r.9 (841523194) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item841523194_neverland_rekawice_hummer_z_usztywnieniem_r_9.html
+	CREATED=1260640473
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=68790730E74711DE85A8C003AB8C01D7
+
+#URL
+	ID=63
+	NAME=**PATRIOT** PENDRIVE 16GB X-PORTER x200 35MB/s F-V (733010379) - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item733010379_patriot_pendrive_16gb_x_porter_x200_35mb_s_f_v.html
+	CREATED=1253126996
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=BCDC5D30A2F111DE85DC9A805B6A50A1
+
+#URL
+	ID=64
+	NAME=PIONEER DEH-2100UB / DEH-2120UB - USB - NAJTANIEJ (736147644) - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/item736147644_pioneer_deh_2100ub_deh_2120ub_usb_najtaniej.html
+	CREATED=1253127544
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=022ED5B0A2F311DE85DDF1E8D473E2E7
+
+#URL
+	ID=65
+	NAME=REKAWICE SNOWBOARDOWE Z MEMBRANA PROTECTION SYSTEM (844778951) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item844778951_rekawice_snowboardowe_z_membrana_protection_system.html
+	CREATED=1260640556
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=9AE867B0E74711DE85A9FB3758278379
+
+#URL
+	ID=66
+	NAME=Spodnie BLESSING SupraTex membrana HIT CENOWY !! (837382768) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item837382768_spodnie_blessing_supratex_membrana_hit_cenowy.html
+	CREATED=1260640240
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=E0376FB0E74611DE85A686B2FED4DB3F
+
+#URL
+	ID=67
+	NAME=Spodnie BLESSING SupraTex membrana HIT CENOWY !! (847048920) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item847048920_spodnie_blessing_supratex_membrana_hit_cenowy.html
+	CREATED=1260640275
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=F32CF3B0E74611DE85A7DE9B1021FA3A
+
+#URL
+	ID=68
+	NAME=Wojna Starożytnych na Allegro - Wyniki wyszukiwania - Aukcje internetowe Allegro
+	URL=http://www.allegro.pl/search.php?string=Wojna+Staro%C5%BCytnych&category=7&buy=0&new=0&pay=0&vat_inv=0&personal_rec=0&country=1
+	CREATED=1257161526
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=5C62D070C7A311DE85FDCD94D38A8F6E
+
+#URL
+	ID=69
+	NAME=[mix] Machinarium (2009) - polish:Elite:board
+	URL=http://peb.pl/przygodowe/661708-mix-machinarium-2009-a.html
+	CREATED=1259790292
+	DESCRIPTION=Machinarium-SKIDROW eng bin/cue party po 200mb bez danych naprawczych w srodku bin/cue bez nfo i innych plikow wersja angielska opis gry z http://www.g
+	UNIQUEID=ED83F570DF8B11DE85D6F76A0A8404C0
+
+#URL
+	ID=70
+	NAME=[RS] MAchinarium - Point&click Best Game 2009 - polish:Elite:board
+	URL=http://peb.pl/logiczne-zrecznosciowe-platformowe-symulatory/665089-rapidshare-machinarium-point-click-best-game.html
+	CREATED=1259790116
+	DESCRIPTION=Opis: Machinarium jest kolejnym działem niezależnego czeskiego studia, Amanita Design, autorów obydwu części flashowych przygodówek - Samorost. Zyskały
+	UNIQUEID=8880E390DF8B11DE85D59D4C3340D5E1
+
+#URL
+	ID=71
+	NAME=Funny People (2009) - Film - FILMWEB.pl
+	URL=http://www.filmweb.pl/f483174/Funny+People,2009
+	CREATED=1266242911
+	DESCRIPTION=Funny People (2009)- Film - FILMWEB.pl W ciągu ostatnich kilku lat, scenarzysta i reżyser [person=63754]Judd Apatow[/person] ("[film=169032]40-letni prawiczek[/film]", "[film=296270]Wpadka[/film]") pokazał, że nie ma żadnych tabu - od ...
+	UNIQUEID=9A3A2A201A3B11DF96A5ADAE5B2C520F
+
+#URL
+	ID=72
+	NAME=New York, I Love You (2009) - Film - FILMWEB.pl
+	URL=http://www.filmweb.pl/f434046/New+York%2C+I+Love+You,2009
+	CREATED=1266242917
+	DESCRIPTION=New York, I Love You (2009)- Film - FILMWEB.pl Zbiorowa praca dwunastu krótkich filmów nakręcona przez renomowanych reżyserów w dzielnicach pięciu miast. Tematem jest miłość, wplątana między pięciominutowe historyjki...
+	UNIQUEID=9D4B3AB01A3B11DF96A6C0DEB408C025
+
+#URL
+	ID=73
+	NAME=Planeta 51 / Planet 51 (2009) - Film - FILMWEB.pl
+	URL=http://www.filmweb.pl/f298583/Planeta+51,2009
+	CREATED=1266242902
+	DESCRIPTION=Planeta 51 (2009)- Film - FILMWEB.pl Nowy film twórców „Shreka”! Typowi mieszkańcy planety mają dwoje czułków, osiem palców i panicznie boją się inwazji obcych cywilizacji. 16-letni Lem jest wzorowym uczniem i ...
+	UNIQUEID=96BDD4A01A3B11DF96A4D7DBEBF3D60C
+
+#FOLDER
+	ID=74
+	NAME=films
+	CREATED=1266242885
+	UNIQUEID=89AE7A301A3B11DF96A38F18884950A2
+
+-
+
+#URL
+	ID=75
+	NAME=ze?t online riddle...
+	URL=http://zestriddle.ovh.org/
+	CREATED=1251318990
+	DESCRIPTION=zest online riddle
+	UNIQUEID=23CF2220928011DE9CCBA875CB122157
+
+#URL
+	ID=76
+	NAME=Stephenie Meyer [2] KSIEZYC W NOWIU twarda WYS UPS (952909528) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item952909528_stephenie_meyer_2_ksiezyc_w_nowiu_twarda_wys_ups.html
+	CREATED=1268909887
+	VISITED=1269342277
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=27C7CAB0327D11DF8694B03549635D29
+
+#URL
+	ID=77
+	NAME=Stephenie Meyer [3] ZAĆMIENIE [twarda] WYS. UPS (952909511) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item952909511_stephenie_meyer_3_zacmienie_twarda_wys_ups.html
+	CREATED=1268909948
+	VISITED=1269342277
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=490DDBB0327D11DF8696FA75C1014EB7
+
+#URL
+	ID=78
+	NAME=Stephenie Meyer [4] PRZED ŚWITEM [twarda] WYS UPS (952909479) - Aukcje internetowe Allegro
+	URL=http://allegro.pl/item952909479_stephenie_meyer_4_przed_switem_twarda_wys_ups.html
+	CREATED=1268909939
+	VISITED=1269342277
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=42F35BB0327D11DF8695F2761F67550A
+
+#FOLDER
+	ID=79
+	NAME=uczelnie
+	CREATED=1267998324
+	UNIQUEID=BC8AD2302A3211DF85B5C6DCF0FDA8C0
+
+#URL
+	ID=80
+	NAME=Politechnika Wrocławska - Rekrutacja
+	URL=http://www.eka.pwr.wroc.pl/rekrutacja,41.dhtml
+	CREATED=1267998355
+	VISITED=1270235228
+	UNIQUEID=D24B5D102A3211DF85B6D7B60AA2E7D6
+
+#URL
+	ID=81
+	NAME=PJWSTK. Polsko-Japońska Wyższa Szkoła Technik Komputerowych.
+	URL=http://www.pjwstk.edu.pl/
+	CREATED=1267999405
+	VISITED=1269350324
+	DESCRIPTION=Najlepsza niepubliczna wyższa szkoła informatyczna w Polsce
+	UNIQUEID=430972102A3511DF85B7AE38EDE09BBC
+
+#URL
+	ID=82
+	NAME=Wydział MIM UW - Strona główna
+	URL=http://www.mimuw.edu.pl/?cookie=1
+	CREATED=1267999523
+	VISITED=1269344668
+	UNIQUEID=882407202A3511DF85B8E9145BF189BD
+
+-
+
+#URL
+	ID=83
+	NAME=Gry Platformowe
+	URL=http://zwodnik.pl/index.php?id=94
+	CREATED=1268240455
+	VISITED=1268258934
+	DESCRIPTION=﻿dobre i darmowe Gry Platformowe dla Windows, Linux i Mac
+	UNIQUEID=3A319E70403C11DF861987216AD177E4
+
+#URL
+	ID=84
+	NAME=Gry Platformowe
+	URL=http://zwodnik.pl/index.php?id=94
+	CREATED=1268240455
+	VISITED=1268258934
+	DESCRIPTION=﻿dobre i darmowe Gry Platformowe dla Windows, Linux i Mac
+	UNIQUEID=37F59120403C11DF8617D2CB8CF52B99
+
+#URL
+	ID=85
+	NAME=OPEN-AGH: Kategorie kursów
+	URL=http://open.agh.edu.pl/course/index.php
+	CREATED=1265462523
+	VISITED=1270421379
+	DESCRIPTION=OPEN-AGH: Kategorie kursów
+	UNIQUEID=9EA2CF10132211DF868685A02827C4AA
+
+#URL
+	ID=86
+	NAME=http://www.neuron.kylos.pl/pliki/uczenie/uczenie3.html
+	URL=http://www.neuron.kylos.pl/pliki/uczenie/uczenie3.html
+	CREATED=1265908692
+	VISITED=1270421454
+	UNIQUEID=6FAD02D0173111DF8AA7EE5661957D35
+
+#URL
+	ID=87
+	NAME=Pro Git - rozdział 1 - Matthew::blog
+	URL=http://blog.matthew.org.pl/2010/03/03/pro-git-rozdzial-1/
+	CREATED=1268596859
+	VISITED=1270421880
+	UNIQUEID=4855F5E0403D11DF8634E5578B9407C1
+
+-
+
+#FOLDER
+	ID=88
+	NAME=Programowanie
+	CREATED=1249326396
+	UNIQUEID=C409DCD0806011DE8BA4B47491FC9096
+
+#FOLDER
+	ID=89
+	NAME=blogi
+	CREATED=1249326432
+	UNIQUEID=D9A6B310806011DE8BA6ECA83FE87D14
+
+#URL
+	ID=90
+	NAME=DevBlogi: Tłumaczenia najpoczytniejszych blogów o tworzeniu oprogramowania.
+	URL=http://www.devblogi.pl/
+	CREATED=1249326468
+	VISITED=1268645115
+	UNIQUEID=F3665800806011DE8BA7EE3C10347CFB
+
+#URL
+	ID=91
+	NAME=Matthew::blog
+	URL=http://blog.matthew.org.pl/
+	CREATED=1270421885
+	VISITED=1273618363
+	UNIQUEID=8ABC4060403D11DF86389AC5EA9B4548
+
+#URL
+	ID=92
+	NAME=randomseed : System kontroli wersji Git
+	URL=http://randomseed.pl/2008/12/30/system-kontroli-wersji-git
+	CREATED=1270395926
+	VISITED=1270422484
+	UNIQUEID=9FFE4C70403D11DF863AA0248410D6CF
+
+#URL
+	ID=93
+	NAME=Ewangelizacja IT (Java, Architektura, SOA)
+	URL=http://www.mariuszlipinski.pl/
+	CREATED=1270422242
+	UNIQUEID=6029B3E0403E11DF863EDA839E3D4D4C
+
+#URL
+	ID=94
+	NAME=Kamil y3ti Grabowski
+	URL=http://blog.y3ti.pl/
+	CREATED=1273184197
+	VISITED=1273255113
+	UNIQUEID=09870B40595D11DF9526BEEF507A92D5
+
+-
+
+#FOLDER
+	ID=95
+	NAME=PHP
+	CREATED=1243700733
+	DESCRIPTION=Wpisz nazwę folderu, który ma zostać utworzony w folderze „Zakładki”.
+	UNIQUEID=7F9976304D3611DE8443A7FFA4E1819A
+
+#URL
+	ID=96
+	NAME=XP-Dev.com - Free Subversion Hosting (SVN Hosting), Version Control, Project Tracking - Home
+	URL=http://www.xp-dev.com/
+	CREATED=1243700718
+	VISITED=1269897742
+	DESCRIPTION=XP-Dev.com provides commercial grade Subversion Hosting (SVN Hosting) and Project Management tools
+	UNIQUEID=814C7D604D3611DE8444DFFE1CF8B6D9
+
+#URL
+	ID=97
+	NAME=Zend Framework
+	URL=http://www.framework.zend.com/
+	CREATED=1243700753
+	UNIQUEID=8CC1D6E04D3611DE8445D6C91F021F74
+
+-
+
+#URL
+	ID=98
+	NAME=Stack Overflow
+	URL=http://stackoverflow.com/
+	CREATED=1252441814
+	VISITED=1268239874
+	UNIQUEID=706EE3F09CB611DE85AAF440CC77987B
+
+#FOLDER
+	ID=99
+	NAME=c++
+	CREATED=1254598484
+	UNIQUEID=CD7CB5D0B05311DE8638A02F22CD897E
+
+#URL
+	ID=100
+	NAME=C++ bez cholesterolu
+	URL=http://www.intercon.pl/~sektor/cbx/
+	CREATED=1254598477
+	UNIQUEID=CE6DA580B05311DE8639E6119D3C0E58
+
+#URL
+	ID=101
+	NAME=Teach Yourself C++ in 21 Days
+	URL=http://newdata.box.sk/bx/c/
+	CREATED=1254598955
+	UNIQUEID=E7F18480B05411DE863AB7B541269E6E
+
+#URL
+	ID=102
+	NAME=Rysowanie punktów na powierzchni graficznej
+	URL=http://edu.i-lo.tarnow.pl/inf/utils/002_roz/2008_05.php
+	CREATED=1267866695
+	DESCRIPTION=Artykuł przedstawia tworzenie funkcji biblioteki graficznej wraz z przykładami ich wykorzystania
+	UNIQUEID=5177D1B0290011DF970E85136DDD1633
+
+-
+
+#FOLDER
+	ID=103
+	NAME=bazy danych
+	CREATED=1259682180
+	UNIQUEID=34524F80DE9011DEA114E325AABBA092
+
+#URL
+	ID=104
+	NAME=Wykop.pl - MySQL: 20 najlepszych praktyk
+	URL=http://www.wykop.pl/ramka/266572/mysql-20-najlepszych-praktyk
+	CREATED=1259682232
+	UNIQUEID=57423FF0DE9011DEA1159439345222B3
+
+-
+
+#FOLDER
+	ID=105
+	NAME=Grafika
+	CREATED=1262551976
+	UNIQUEID=F8447110F8A911DE9B1FF57D8D3F7FAF
+
+#URL
+	ID=106
+	NAME=Top 25 Free Stock Image Resource Sites : Speckyboy Design Magazine
+	URL=http://speckyboy.com/2008/05/23/top-25-free-stock-image-resource-sites/
+	CREATED=1262551998
+	UNIQUEID=13FE1140F8AA11DE9B20C06B263CBA6A
+
+-
+
+#FOLDER
+	ID=107
+	NAME=Qt
+	CREATED=1268260823
+	UNIQUEID=EA74DA002C9511DF8628D95D94627467
+
+#URL
+	ID=108
+	NAME=Online Reference Documentation
+	URL=http://doc.trolltech.com/
+	CREATED=1268260857
+	VISITED=1268260922
+	UNIQUEID=06948F002C9611DF862986A8426A5023
+
+#URL
+	ID=109
+	NAME=Qt 4.6: Qt Examples
+	URL=http://doc.trolltech.com/4.6/examples.html
+	CREATED=1268260895
+	VISITED=1268260958
+	UNIQUEID=169193802C9611DF862AB0C19E56017F
+
+#URL
+	ID=110
+	NAME=Qt 4.6: Qt Examples
+	URL=http://doc.trolltech.com/4.6/examples.html
+	CREATED=1268260963
+	UNIQUEID=3F0605802C9611DF862BDAF2017DF498
+
+#URL
+	ID=111
+	NAME=Qt 4.6: Tutorials
+	URL=http://doc.trolltech.com/4.6/tutorials.html
+	CREATED=1268260992
+	UNIQUEID=50EDC3002C9611DF862C978EA052BF5E
+
+#URL
+	ID=112
+	NAME=The Independent Qt Tutorial - Chapter 8
+	URL=http://www.digitalfanatics.org/projects/qt_tutorial/chapter08.html
+	CREATED=1273159099
+	VISITED=1273239746
+	UNIQUEID=99F93350592211DF85ACC5CC4CCAE762
+
+-
+
+#URL
+	ID=113
+	NAME=Darmowe czasopisma dla programistów - devPytania
+	URL=http://devpytania.pl/questions/1572/darmowe-czasopisma-dla-programistow
+	CREATED=1270232277
+	VISITED=1270369263
+	UNIQUEID=14A61C803E8411DF9449FA5CD5136FE3
+
+#FOLDER
+	ID=114
+	NAME=java
+	CREATED=1265230412
+	UNIQUEID=E8CEA870403B11DF8602BA7F35766DB8
+
+#URL
+	ID=115
+	NAME=Java :: Książki do Javy - 4programmers.net
+	URL=http://4programmers.net/Java/Książki_do_Javy
+	CREATED=1265230422
+	DESCRIPTION= Serwis 4programmers.net poświęcony jest programowaniu w językach Delphi, PHP, C++. Posiadamy największe forum dykusyjne
+	UNIQUEID=E8CEA870403B11DF8604C028A0DF79C8
+
+#URL
+	ID=116
+	NAME=Ewangelizacja IT (Java, Architektura, SOA)
+	URL=http://www.mariuszlipinski.pl/
+	CREATED=1265292227
+	VISITED=1270422237
+	UNIQUEID=E8CEA870403B11DF86068B13810C8E8C
+
+#URL
+	ID=117
+	NAME=Java i C#- materiały do nauki - devPytania
+	URL=http://devpytania.pl/questions/843/java-i-c-materialy-do-nauki
+	CREATED=1265720999
+	UNIQUEID=E8CEA870403B11DF86089D825BAD5E8E
+
+#URL
+	ID=118
+	NAME=jna: Java Native Access (JNA): Pure Java access to native libraries
+	URL=https://jna.dev.java.net/
+	CREATED=1265997284
+	VISITED=1267440282
+	DESCRIPTION=Java Native Access (JNA): access native libraries with pure Java code.
+	UNIQUEID=E8CEA870403B11DF860AE058849B0043
+
+#URL
+	ID=119
+	NAME=Java - Wykład 2
+	URL=http://www.staff.amu.edu.pl/~lipowski/java/wyklad3/java-wyklad3.html
+	CREATED=1267144353
+	VISITED=1267440271
+	UNIQUEID=E8CECF80403B11DF860CEFDB011BA206
+
+#URL
+	ID=120
+	NAME=Java :: Ant - 4programmers.net
+	URL=http://4programmers.net/Java/Ant?sid=8bf9ce6b331a8632858454f03dfc3b90
+	CREATED=1267291443
+	VISITED=1267439755
+	DESCRIPTION= Serwis 4programmers.net poświęcony jest programowaniu w językach Delphi, PHP, C++. Posiadamy największe forum dykusyjne
+	UNIQUEID=E8CECF80403B11DF860ECCD4F3B62EA3
+
+#URL
+	ID=121
+	NAME=Java :: JSF pytanko do użytkowników - 4programmers.net
+	URL=http://forum.4programmers.net/viewtopic.php?id=158552
+	CREATED=1269127547
+	DESCRIPTION= Serwis 4programmers.net poświęcony jest programowaniu w językach Delphi, PHP, C++. Posiadamy największe forum dykusyjne
+	UNIQUEID=E8CECF80403B11DF8610E64D3C89F643
+
+-
+
+#FOLDER
+	ID=122
+	NAME=web technologies
+	CREATED=1270421587
+	UNIQUEID=D5E19370403C11DF8628F705F957E48F
+
+#FOLDER
+	ID=123
+	NAME=css
+	CREATED=1270421661
+	UNIQUEID=01CC1960403D11DF862BF977E0770A20
+
+#URL
+	ID=124
+	NAME=Najlepsze źródła do nauki CSS - devPytania
+	URL=http://devpytania.pl/questions/1555/najlepsze-zrodla-do-nauki-css
+	CREATED=1269953943
+	VISITED=1269990180
+	UNIQUEID=065794F0403D11DF862DE46B14FB6F6E
+
+#URL
+	ID=125
+	NAME=Od zera do WWWebmastera/CSS - VLOpedia
+	URL=http://wiki.lo5.bielsko.pl/index.php/Od_zera_do_WWWebmastera/CSS
+	CREATED=1269990462
+	UNIQUEID=065794F0403D11DF862FADE3540971FE
+
+#URL
+	ID=126
+	NAME=Spis treści - Kurs BrowseHappy
+	URL=http://kurs.browsehappy.pl/Kurs/Spis
+	CREATED=1269990423
+	VISITED=1270421645
+	UNIQUEID=065794F0403D11DF8631834B81F893CE
+
+-
+
+-
+
+#FOLDER
+	ID=127
+	NAME=czasopisma
+	CREATED=1270421755
+	UNIQUEID=39ECFEE0403D11DF8632C5ED1EB1BCAF
+
+#URL
+	ID=128
+	NAME=Dragonia Magazine: Aktualności
+	URL=http://dragonia.pl/news.php
+	CREATED=1270421791
+	UNIQUEID=53972000403D11DF86378CC95143CB49
+
+#URL
+	ID=129
+	NAME=JAVA exPress
+	URL=http://www.javaexpress.pl/
+	CREATED=1270422159
+	UNIQUEID=30A7D660403E11DF863BF2C92637815A
+
+#URL
+	ID=130
+	NAME=SDJ :: Sdj pl
+	URL=http://sdjournal.org/
+	CREATED=1270422205
+	DESCRIPTION=Software Developer`s Journal (poprzednio Software 2.0) jest miesięcznikiem (wersja polska zawiera płytę CD/DVD). Nakład 6000 egz. Nasi czytelnicy to głównie programiści, którzy liczą, że dostarczymy im gotowe rozwiązania, oszczędzając im czasu i pracy. Je
+	UNIQUEID=473AA560403E11DF863C9BF59CCE4F28
+
+-
+
+#URL
+	ID=131
+	NAME=Pro Git - Pro Git Book
+	URL=http://progit.org/
+	CREATED=1270422212
+	UNIQUEID=4D922E60403E11DF863DE4ED3FDB3707
+
+#URL
+	ID=132
+	NAME=Your Dashboard - GitHub
+	URL=https://github.com/
+	CREATED=1270426246
+	UNIQUEID=B52A53F0404711DF86B083180DD64088
+
+-
+
+#FOLDER
+	ID=133
+	NAME=gry
+	CREATED=1251318676
+	UNIQUEID=679CE150927F11DE9CC8AAC9AA798583
+
+#URL
+	ID=134
+	NAME=www.garner.com.au - ouverture-facile.com english solutions and walkthrough
+	URL=http://www.garner.com.au/ouverture-facile.comsolution
+	CREATED=1251318670
+	UNIQUEID=68AB4410927F11DE9CC9CFBD22EA493B
+
+#URL
+	ID=135
+	NAME=ze?t online riddle...
+	URL=http://zestriddle.ovh.org/
+	CREATED=1251318793
+	DESCRIPTION=zest online riddle
+	UNIQUEID=AF376A80927F11DE9CCAD8319CF72B22
+
+#URL
+	ID=136
+	NAME=Ouverture Facile : Enigmes Flash / Flash Riddles
+	URL=http://www.ouverture-facile.com/
+	CREATED=1251320723
+	DESCRIPTION=Ouverture Facile is a flash riddle game with a growing difficulty. In these riddles you will progress each level at a time using your brain, several clues hidden in this website and searching all over the web to learn what you don't know to solve the riddles. Good luck!
+	UNIQUEID=2D9CE950928411DE9CCCBC329327ACFC
+
+#URL
+	ID=137
+	NAME=Gry Platformowe
+	URL=http://zwodnik.pl/index.php?id=94
+	CREATED=1268240455
+	VISITED=1268258934
+	DESCRIPTION=﻿dobre i darmowe Gry Platformowe dla Windows, Linux i Mac
+	UNIQUEID=3C743B70403C11DF861BCB7F1E8B51D8
+
+#URL
+	ID=138
+	NAME=Wykop.pl - 71 najlepszych darmowych gier we flashu
+	URL=http://www.wykop.pl/ramka/286792/71-najlepszych-darmowych-gier-we-flashu
+	CREATED=1263897636
+	UNIQUEID=503E9BA0403C11DF861FB11F229568C0
+
+-
+
+#URL
+	ID=139
+	NAME=[POŁĄCZONE] CD-Action *Wszystko* - Strona 12 - polish:Elite:board
+	URL=http://peb.pl/gazety-i-czasopisma/64068-polaczone-cd-action-wszystko-12.html
+	CREATED=1252443015
+	VISITED=1269876412
+	DESCRIPTION=CD ACTION 08/2009 Kod: http://hotfile.com/dl/10291038/e288c49/CDA.08.09.pdf.html
+	UNIQUEID=3B4676909CB911DE85ABA4F548D80B1A
+
+#FOLDER
+	ID=140
+	NAME=przedmioty do kupienia
+	CREATED=1253126972
+	UNIQUEID=AC3AB440A2F111DE85DB8433B073AA3A
+
+#URL
+	ID=141
+	NAME=SILNIK WYCIERACZKI WYCIERACZEK SEAT TOLEDO 2 LEON (1013236410) - motoAllegro
+	URL=http://www.motoallegro.pl/item1013236410_silnik_wycieraczki_wycieraczek_seat_toledo_2_leon.html
+	CREATED=1273159085
+	DESCRIPTION=Allegro - największe aukcje internetowe, najniższe ceny! Kup i sprzedaj!
+	UNIQUEID=920B2BD0592211DF85ABEF5712E31EA1
+
+-
+
+#FOLDER
+	ID=142
+	NAME=Czechy
+	CREATED=1254994195
+	UNIQUEID=239B3990B3ED11DE85AADC2C9FA8E4E0
+
+#FOLDER
+	ID=143
+	NAME=canteen
+	CREATED=1254994307
+	UNIQUEID=662DC430B3ED11DE85ABCB876B0899B9
+
+#URL
+	ID=144
+	NAME=JÍDELNÍČEK MENZY UTB (czk)
+	URL=https://koleje.utb.cz/jidelnicek.php
+	CREATED=1254994335
+	DESCRIPTION=JÍDELNÍČEK MENZY UTB
+	UNIQUEID=82D769B0B3ED11DE85ADB06D27B01352
+
+#URL
+	ID=145
+	NAME=JÍDELNÍČEK MENZY UTB (en)
+	URL=https://koleje.utb.cz/jidelnicek.php?lang=2
+	CREATED=1254994360
+	DESCRIPTION=JÍDELNÍČEK MENZY UTB
+	UNIQUEID=8BD0C6B0B3ED11DE85AE8491CE816730
+
+#URL
+	ID=146
+	NAME=Live view - AXIS 206 Network Camera
+	URL=http://cam-u5-menza.utb.cz/view/index.shtml
+	CREATED=1254994395
+	VISITED=1267476508
+	UNIQUEID=9C989540B3ED11DE85AF96D45FCB4248
+
+#URL
+	ID=147
+	NAME=FAI :: O fakultě :: Interní informace :: Jídelníček
+	URL=http://web.fai.utb.cz/?id=0_0_9_4&lang=cs&type=0
+	CREATED=1255545843
+	UNIQUEID=8FCCB400B8F111DE85BEE1100B930678
+
+-
+
+#FOLDER
+	ID=148
+	NAME=clubs
+	CREATED=1254994316
+	UNIQUEID=6C085500B3ED11DE85AC8E2499D637AB
+
+#URL
+	ID=149
+	NAME=Music Land, Zlín - Aktuality
+	URL=http://www.music-land.cz/
+	CREATED=1254994428
+	DESCRIPTION=Diskotékový a koncertní klub ve Zlíně
+	UNIQUEID=B11F8EB0B3ED11DE85B08EC2F82A6CCF
+
+#URL
+	ID=150
+	NAME=METRO Club & Cocktail Bar .::. Zlín .::. home
+	URL=http://www.metro-zlin.cz/
+	CREATED=1254994451
+	DESCRIPTION=METRO - exklusivní klub & coctail bar v centru Zlína
+	UNIQUEID=BEACCBB0B3ED11DE85B1BB5C5DE7E199
+
+-
+
+#FOLDER
+	ID=151
+	NAME=Projekt
+	CREATED=1255439864
+	UNIQUEID=CB0D0A30B7FA11DE991A838EED628693
+
+#URL
+	ID=152
+	NAME=SOMA, DE, Softcomputing
+	URL=http://www.fai.utb.cz/people/zelinka/soma/
+	CREATED=1255439852
+	UNIQUEID=CE3DD7C0B7FA11DE991BCACDA40770B4
+
+#URL
+	ID=153
+	NAME=Styl kodowania w c++
+	URL=http://docs.google.com/gview?a=v&q=cache:ozlZbxpqSkgJ:www.mini.pw.edu.pl/~mkobos/pi/CPP-styl.pdf+style+kodowania&hl=pl&gl=pl&sig=AFQjCNGHvzCCW_0wiNdZQlfsE24eGw538w
+	CREATED=1255466077
+	UNIQUEID=DE1C1CF0B83711DE8708C18C5BB85FBD
+
+#URL
+	ID=154
+	NAME=subclipse: Download and Install
+	URL=http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA
+	CREATED=1255467675
+	DESCRIPTION=Open source software engineering
+	UNIQUEID=8F504FC0B83B11DE87099E587BF07C6F
+
+-
+
+#URL
+	ID=155
+	NAME=activity list
+	URL=http://web.fame.utb.cz/?id=0_2_8_0&iid=0&lang=cs&type=0
+	CREATED=1256216944
+	UNIQUEID=1E9186A0BF0C11DE876CFA8F8C72E1C1
+
+#URL
+	ID=156
+	NAME=PODOL, spol. s r.o. - ubytovna Zlín
+	URL=http://www.ubytovna.zlinsko.com/
+	CREATED=1257287420
+	DESCRIPTION=Ubytovna Podol, Zlín, Pozimos
+	UNIQUEID=7AAFA780C8C811DE865E9B87FF0836EF
+
+#FOLDER
+	ID=157
+	NAME=Qt
+	CREATED=1258849169
+	UNIQUEID=B37ED530D6FC11DE85B8862FA617824D
+
+#URL
+	ID=158
+	NAME=Qt 4.5.3: Tutorials
+	URL=http://doc.trolltech.com/4.5/tutorials.html
+	CREATED=1258849182
+	UNIQUEID=BD95FE40D6FC11DE85B9C0F9F62FA82B
+
+#URL
+	ID=159
+	NAME=Qt 4.4.3: Installing Qt on Mac OS X
+	URL=http://doc.trolltech.com/4.4/install-mac.html
+	CREATED=1258937556
+	UNIQUEID=819D5130D7CA11DE9AB59333834E1CAA
+
+#URL
+	ID=160
+	NAME=qt programowanie - wiele formatek
+	URL=http://www.free.of.pl/q/qtmoux/l1-06.php
+	CREATED=1259025364
+	UNIQUEID=00E7DBF0D89711DE85DDC553C91AFCAD
+
+#URL
+	ID=161
+	NAME=The Independent Qt Tutorial - Validation
+	URL=http://www.digitalfanatics.org/projects/qt_tutorial/chapter10.html
+	CREATED=1259190164
+	UNIQUEID=B09DF090DA1611DE8A52A59A020F4CF6
+
+#URL
+	ID=162
+	NAME=Subclassing QDialog
+	URL=http://www.qtchina.net/qt4c++guiprogramming/ch02lev1sec1.html
+	CREATED=1259242120
+	UNIQUEID=A0697D60DA8F11DE9351DE97F95D4D90
+
+-
+
+#FOLDER
+	ID=163
+	NAME=Qwt
+	CREATED=1260114785
+	UNIQUEID=714E89B0E27F11DE85FA807FAD7F6385
+
+#URL
+	ID=164
+	NAME=QwtPlot - Qt Widget Gallery
+	URL=http://www.digitalfanatics.org/e8johan/projects/widgets/qwtplot.html
+	CREATED=1260114797
+	UNIQUEID=7B985B80E27F11DE85FBE09B69DB79F2
+
+-
+
+-
+
+#URL
+	ID=165
+	NAME=pdfName filetype:pdf - Szukaj w Google
+	URL=http://www.google.com/search?client=opera&rls=pl&q=pdfName+filetype:pdf&sourceid=opera&ie=utf-8&oe=utf-8
+	CREATED=1260624805
+	UNIQUEID=EDCC0A10E72211DE8613B4AF02F96C06
+
+#URL
+	ID=166
+	NAME=Mówiący słownik angielskiego online - Diki.pl
+	URL=http://www.diki.pl/
+	CREATED=1256845829
+	VISITED=1268170799
+	DESCRIPTION=Bezpłatny słownik angielsko-polski online. Oferuje tłumaczenia, przykładowe zdania, nagrania wymowy, obrazki.
+	UNIQUEID=5096D570C4C411DE979D93F69C9FEB89
+
+#FOLDER
+	ID=167
+	NAME=downl
+	CREATED=1259790102
+	UNIQUEID=7ACA2590DF8B11DE85D4E4196074C117
+
+#URL
+	ID=168
+	NAME=[RS] PHP i MySQL tworzenie stron www, vademecum profesjonalisty - polish:Elite:board
+	URL=http://peb.pl/nauka-i-technika/718485-rapidshare-php-i-mysql-tworzenie-stron.html
+	CREATED=1267826880
+	DESCRIPTION=368.14 MB PHP i MySQL. Tworzenie stron WWW. Vademecum profesjonalisty. Wydanie trzecie Wydawnictwo: Helion Autorzy: Luke Welling, Laura Thomson Data
+	UNIQUEID=9352C66028A311DF9896A1D19F919129
+
+-
+
+#URL
+	ID=169
+	NAME=How to Search for MP3s using Google - Automated!
+	URL=http://www.smacki.com/mp3%20search%20using%20google
+	CREATED=1260624580
+	VISITED=1267267430
+	DESCRIPTION=Guide to digital audio, video, photography, home theater PCs and filesharing, including resources, blog, news and searching.
+	UNIQUEID=67CBD710E72211DE8612E4FBC86C72ED
+
+#FOLDER
+	ID=170
+	NAME=Praca dyplomowa
+	CREATED=1260625323
+	UNIQUEID=2152D890E72411DE8614C9DF8F9AA3C5
+
+#FOLDER
+	ID=171
+	NAME=ebooki
+	CREATED=1260625339
+	UNIQUEID=2B294F20E72411DE86158444D64BEF00
+
+#URL
+	ID=172
+	NAME=Advanced concepts for intelligent ... - Google Książki
+	URL=http://books.google.pl/books?id=NbHw2Csej-8C&pg=PA75&lpg=PA75&dq=P.+Douville.+Real-time+classification+of+traffic+signs.+Real-Time+Imaging,+6(3):185%E2%80%93193&source=bl&ots=SGbkoBlX5Q&sig=PFBpNV_t4gkmrnF8Vm9AsyKKDVE&hl=pl&ei=QJcjS_DkC5T7_AbtivC8Cg&sa=X&oi=book_result&ct=result&resnum=9&ved=0CEcQ6AEwCA#v=onepage&q=P.%20Douville.%20Real-time%20classification%20of%20traffic%20signs.%20Real-Time%20Imaging%2C%206(3)%3A185%E2%80%93193&f=false
+	CREATED=1260625355
+	UNIQUEID=39D06090E72411DE861691BF46831422
+
+#URL
+	ID=173
+	NAME=Economic Consequences of Traffic Accidents in the Baltic Countries - Backaitis
+	URL=http://www.lituanus.org/2000/00_3_05.htm
+	CREATED=1261070444
+	UNIQUEID=861D7A90EB3011DE8654B9B0FEBE29B0
+
+-
+
+#FOLDER
+	ID=174
+	NAME=przetwarzanie obrazow w javie
+	CREATED=1263319963
+	UNIQUEID=141DB9C0FFA611DE86078C200A593075
+
+#URL
+	ID=175
+	NAME=Image processing with Java 2D - JavaWorld
+	URL=http://www.javaworld.com/javaworld/jw-09-1998/jw-09-media.html?page=1
+	CREATED=1263319933
+	DESCRIPTION=Bill Day and guest contributor Jonathan Knudsen describe the imageprocessing classes in Java 2D. You'll learn how to blur, sharpen,invert, and posterize images. (2,900 words)
+	UNIQUEID=15833D30FFA611DE8608839B51C94E61
+
+#URL
+	ID=176
+	NAME=jaistuff: Java Advanced Imaging Stuff - Main
+	URL=https://jaistuff.dev.java.net/
+	CREATED=1263320401
+	DESCRIPTION=Página com informações sobre Rafael Santos
+	UNIQUEID=1B8A18B0FFA711DE8609EFD075139DDE
+
+#URL
+	ID=177
+	NAME=Java Image Processing Cookbook
+	URL=http://www.lac.inpe.br/JIPCookbook/index.jsp
+	CREATED=1263320409
+	DESCRIPTION=Publicações, material de cursos, etc. criados por Rafael Santos
+	UNIQUEID=1F3127B0FFA711DE860AF32D9E038D7D
+
+-
+
+#URL
+	ID=178
+	NAME=segmentacja obrazu
+	URL=http://matlab.atspace.org/teoria/seg/seg.html
+	CREATED=1263488798
+	DESCRIPTION=Strona poświęcona zagadnieniom związanym z  telekomunikacją,cyfrowym przetwarzaniem sygnałów, przetwarzaniem sygnałów akustycznych (efekty dźwiękowe), sieciami bezprzewodowymi i tym podobnymi.Główny nacisk położony jest na implementację praktycznych algorytmów w środowisku Matlab
+	UNIQUEID=3BCBD8F0012F11DF85C1BEFB631D646B
+
+#URL
+	ID=179
+	NAME=Java Neural Network -- back propag
+	URL=http://home.agh.edu.pl/~vlsi/AI/backp_t/backprop.html
+	CREATED=1265547838
+	VISITED=1266679536
+	UNIQUEID=5198565013E911DF860CD0B9CFAA302B
+
+#FOLDER
+	ID=180
+	NAME=RSR
+	CREATED=1264634063
+	UNIQUEID=B39181F0403B11DF85DEC75A0DA84133
+
+#URL
+	ID=181
+	NAME=modele barw rgb to hsv
+	URL=http://www.algorytm.org/index.php?option=com_content&task=view&id=219&Itemid=28
+	CREATED=1264634179
+	DESCRIPTION=Strona poświęcona algorytmom i strukturom danych. Do opisów algorytmów dodajemy przykłady i implementacje w C++, Delphi oraz Javie. Serwis tworzony jest przez absolwentów informatyki na Politechnice Poznańskiej. Znajdziesz tutaj zarówno proste algorytmy sortowania jaki  i bardziej zaawansowane metody numeryczne, algorytmy wykorzystywane w sztucznej inteligencji i grafice oraz wiele innych., Algorytmy, Modele barw, Model CMY
+	UNIQUEID=B39181F0403B11DF85E0FB0C31B7DF20
+
+#URL
+	ID=182
+	NAME=Using JDBC with MySQL, Getting Started — Developer.com
+	URL=http://www.developer.com/article.php/3417381
+	CREATED=1264638647
+	DESCRIPTION=Baldwin shows you how to download, install, and prepare a MySQL database as a localhost server on a Windows platform for use with JDBC.  He then shows you how to write JDBC programs to administer the database server and to manipulate data stored on the MySQL database server.
+	UNIQUEID=B39181F0403B11DF85E2C3251478A01E
+
+#URL
+	ID=183
+	NAME=MySQL and Java JDBC - Tutorial
+	URL=http://www.vogella.de/articles/MySQLJava/article.html
+	CREATED=1264641225
+	DESCRIPTION=MySQL and Java JDBC This article describes how to use Java JDBC to connect to MySQL and perform SQL queries, database inserts and deletes.
+	UNIQUEID=B39181F0403B11DF85E4D08E4BF055C8
+
+#URL
+	ID=184
+	NAME=Neural Java Index
+	URL=http://lcn.epfl.ch/tutorial/english/
+	CREATED=1265059777
+	VISITED=1266679559
+	UNIQUEID=B391A900403B11DF85E680D62BCA563E
+
+-
+
+#FOLDER
+	ID=185
+	NAME=sieci neuronowe
+	CREATED=1254995676
+	EXPANDED=YES
+	UNIQUEID=C9EFD370403B11DF85E8C7385DE44266
+
+#URL
+	ID=186
+	NAME=..:: SIECI NEURONOWE ::..
+	URL=http://kik.pcz.czest.pl/nn/podstawy.php
+	CREATED=1254995698
+	VISITED=1266188143
+	UNIQUEID=C9EFD370403B11DF85EA8D77C2E3C218
+
+#URL
+	ID=187
+	NAME=Tadeusiewicz, Ryszard (1947- ) - Sieci neuronowe - Warszawa, 1993
+	URL=http://winntbg.bg.agh.edu.pl/skrypty/0001/main.html
+	CREATED=1254995714
+	VISITED=1266188143
+	UNIQUEID=C9EFD370403B11DF85EC8703C771E5C7
+
+#URL
+	ID=188
+	NAME=Sztuczne Sieci Neuronowe
+	URL=http://nrn.prv.pl/
+	CREATED=1254996478
+	VISITED=1266188160
+	DESCRIPTION=Kurs SSN - nie tylko dla informatyków. Prosty, jasny język. Ilustracje, przykładowe programy.
+	UNIQUEID=C9EFFA80403B11DF85EEE8198CE8E7A9
+
+#FOLDER
+	ID=189
+	NAME=websites
+	CREATED=1263939267
+	UNIQUEID=C9EFFA80403B11DF85F0E6F65278E994
+
+#URL
+	ID=190
+	NAME=Sztuczne Sieci Neuronowe
+	URL=http://nrn.prv.pl/
+	CREATED=1263939242
+	VISITED=1266188160
+	DESCRIPTION=Kurs SSN - nie tylko dla informatyków. Prosty, jasny język. Ilustracje, przykładowe programy.
+	UNIQUEID=C9EFFA80403B11DF85F2D0FD866DF783
+
+#URL
+	ID=191
+	NAME=..:: SIECI NEURONOWE ::..
+	URL=http://www.kik.pcz.czest.pl/nn/wlasnosci.php
+	CREATED=1263939273
+	VISITED=1266188161
+	UNIQUEID=C9EFFA80403B11DF85F4A3C586D98040
+
+#URL
+	ID=192
+	NAME=http://www.mini.pw.edu.pl/MiNIwyklady/sieci/mozg.html
+	URL=http://www.mini.pw.edu.pl/MiNIwyklady/sieci/mozg.html
+	CREATED=1263939824
+	VISITED=1266188161
+	UNIQUEID=C9EFFA80403B11DF85F695BF83C80278
+
+#URL
+	ID=193
+	NAME=http://alipe.webpark.pl/neuronki.swf
+	URL=http://alipe.webpark.pl/neuronki.swf
+	CREATED=1263939830
+	VISITED=1266188161
+	UNIQUEID=C9EFFA80403B11DF85F8B78DA51D4E3C
+
+#URL
+	ID=194
+	NAME=Bosko.pl : : Sztuczne sieci neuronowe
+	URL=http://www.bosko.pl/relaksik/?art=932
+	CREATED=1263939841
+	VISITED=1266188161
+	UNIQUEID=C9F02190403B11DF85FA8A45AB1A6D23
+
+#URL
+	ID=195
+	NAME=Implementacja i wykorzystanie wielowarstwowej sieci perceptronowej w modelowaniu makroekonomicznym
+	URL=http://www.rosczak.com/mlp/mlp.html
+	CREATED=1264178446
+	VISITED=1266188161
+	DESCRIPTION=Implementacja i wykorzystanie wielowarstwowej sieci perceptronowej w modelowaniu makroekonomicznym
+	UNIQUEID=C9F02190403B11DF85FCE63F888FD934
+
+#URL
+	ID=196
+	NAME=Sztuczne Sieci Neuronowe - wstęp
+	URL=http://www.knmn.us.edu.pl/teksty/nauka/115-ssn
+	CREATED=1264179969
+	VISITED=1266188161
+	DESCRIPTION=Oficjalny serwis Kola Naukowego Mysli Nieliniowej pod Instytutem Filozofii Uniwersytetu Slaskiego w Katowicach.
+	UNIQUEID=C9F02190403B11DF85FECAF7567360B7
+
+#URL
+	ID=197
+	NAME=Czytelnia - Wprowadzenie do praktyki stosowania sieci neuronowych
+	URL=http://www.statsoft.pl/czytelnia/neuron/wprowdoprak.html
+	CREATED=1264180579
+	VISITED=1266188162
+	UNIQUEID=C9F02190403B11DF8600D2A80D6070F0
+
+-
+
+-
+
+-
+
+#FOLDER
+	ID=198
+	NAME=music
+	CREATED=1260915094
+	UNIQUEID=CE9521D0E9C611DE8608B4F6B5E3D97F
+
+#URL
+	ID=199
+	NAME=Index of /ftpuser/tephanie/erics music
+	URL=http://www.morronewebdesign.com/ftpuser/tephanie/erics%20music/
+	CREATED=1260915104
+	VISITED=1270162676
+	UNIQUEID=DA7C28E0E9C611DE86098B392A5F23B8
+
+#URL
+	ID=200
+	NAME=Index of /mediaservice/audio/top40
+	URL=http://104.6rtl.com/mediaservice/audio/top40/
+	CREATED=1260915515
+	UNIQUEID=CAE9D7A0E9C711DE860AEB2EB813E891
+
+#URL
+	ID=201
+	NAME=Index of /expression
+	URL=http://www.undertaker.be/expression/
+	CREATED=1260915858
+	UNIQUEID=A0271360E9C811DE8FC4E1E07E3240F9
+
+#FOLDER
+	ID=202
+	NAME=radia online
+	CREATED=1266257622
+	UNIQUEID=05EC4570403C11DF861298A72F6A96ED
+
+#URL
+	ID=203
+	NAME=Słuchaj Radio ZET on-line
+	URL=http://www.radiozet.pl/externals/online-player/online-player.html
+	CREATED=1266257637
+	VISITED=1266355212
+	UNIQUEID=05EC4570403C11DF86149FB6C47C896D
+
+#URL
+	ID=204
+	NAME=Live365 Internet Radio - Thousands of Free Online Radio Stations
+	URL=http://www.live365.com/index.live
+	CREATED=1258885380
+	DESCRIPTION=Live365 Internet Radio - thousands of free online radio stations
+	UNIQUEID=488A8FE0403C11DF861DF740F4996936
+
+-
+
+-
+
+#FOLDER
+	ID=205
+	NAME=lekarze
+	CREATED=1263837114
+	UNIQUEID=29F67670045A11DF869D9DFDEDC5B558
+
+#URL
+	ID=206
+	NAME=Urologia Urolog Pszczyna - SluzbaZdrowia.pl wyświetlono do z - Pszczyna Urolog Urologia
+	URL=http://szukaj.sluzbazdrowia.pl/Urologia/Pszczyna/D34,W24,M2083,20,1.html
+	CREATED=1263837106
+	DESCRIPTION=Urologia Pszczyna w Portalu Medycznym SluzbaZdrowia.pl. Wyniki od do z dla miasta Pszczyna z katalogu Specjalizacje Urologia. U nas znajdziesz również Urolog, Urolodzy, Oddział urologii.
+	UNIQUEID=2BA90870045A11DF869EB19B526E29F2
+
+-
+
+#FOLDER
+	ID=207
+	NAME=wykop
+	CREATED=1269379124
+	UNIQUEID=A9C0FF3036C111DF85FB8BD4D0FEFEC7
+
+#URL
+	ID=208
+	NAME=Wykop.pl - Jabber... alternatywa dla codzienności w komunikacji.
+	URL=http://www.wykop.pl/link/331679/jabber-alternatywa-dla-codziennosci-w-komunikacji/
+	CREATED=1269379133
+	DESCRIPTION=Strona poświęcona Jabberowi, która ma za zadanie urposzczenie procesu przejścia na ten otwarty protokół do minimum i pokazanie ze istnieje alternatywa dla coraz cięższego Gadu-Gadu. Nowe konwertery pomogą przenieść listę GG dosłownie 5 kliknięciami i to wszystko na jednej stronie.
+	UNIQUEID=B101AFB036C111DF85FCCE006A49AAEE
+
+#URL
+	ID=209
+	NAME=Wykop.pl - Czas na referendum ws. wystąpienia Polski z UE!
+	URL=http://www.wykop.pl/link/331494/czas-na-referendum-ws-wystapienia-polski-z-ue/
+	CREATED=1269379140
+	DESCRIPTION=,,Traktat Lizboński jest pierwszym traktatem w którym uregulowana jest możliwość wystąpienia z Unii Europejskiej. Państwo członkowskie nie musi spełniać żadnych warunków aby to uczynić. Wystarczy "porozumienie" pomiędzy UE i państwem które chce wspólnotę opuścić."
+	UNIQUEID=B428923036C111DF85FDC8D9AF744C1A
+
+-
+
+#FOLDER
+	ID=210
+	NAME=nauka różne
+	CREATED=1270323519
+	ACTIVE=YES
+	EXPANDED=YES
+	UNIQUEID=80B5E3403F5811DF86B8CD21670075C2
+
+#FOLDER
+	ID=211
+	NAME=angielski
+	CREATED=1270421272
+	UNIQUEID=19F58360403C11DF8615D6A4F8ABC53F
+
+#URL
+	ID=212
+	NAME=ISEL - Ucz się z nami
+	URL=http://isel.edu.pl/ucz-sie/index.php
+	CREATED=1270406690
+	VISITED=1270406828
+	UNIQUEID=29E7AAE0401A11DF85C8A80A3DD2C416
+
+#URL
+	ID=213
+	NAME=Wykop.pl - Zobacz: 100 zwrotów, które musisz znać pisząc po angielsku
+	URL=http://www.wykop.pl/ramka/339984/100-zwrotow-ktore-musisz-znac-piszac-po-angielsku/
+	CREATED=1270323544
+	DESCRIPTION=Zobacz wykop: Oto 100 wyrażeń dla tych, którzy piszą lub chcą pisać po angielsku. Warto, aby zapoznali się z nimi zarówno autorzy prac naukowych, jak i szkolnych wypracowań.
+	UNIQUEID=926DDE303F5811DF86B9E068248D140C
+
+#URL
+	ID=214
+	NAME=Angielski - książki
+	URL=http://peb.pl/nauka-i-technika/144630-rapidshare-angielski-ksiazki-pomoce-2.html
+	CREATED=1268261397
+	VISITED=1270421602
+	DESCRIPTION=Matura Rozszerzona z języka angielskiego - repetytorium i podręcznik LONGMAN Kod: http://rapidshare.com/files/359643579/best.pdf
+	UNIQUEID=E76055F0403C11DF862AA87A3AA8C117
+
+-
+
+#FOLDER
+	ID=215
+	NAME=psychologia
+	CREATED=1270421420
+	UNIQUEID=7218FD60403C11DF8620AB4D7EF8A614
+
+#URL
+	ID=216
+	NAME=[MIX]Zestaw książek na temat NLP, psychologii, samodoskonalenia, medytacji, tworzenia - polish:Elite:board
+	URL=http://peb.pl/dokumenty/431504-mix-zestaw-ksiazek-na-temat-nlp.html
+	CREATED=1262485155
+	DESCRIPTION=Megapaczka książek dla wszystkich zainteresowanych technikami NLP, NLS, mową ciała, psychologią, osobowością, asertywnością, przyjaźnią, kontaktami z
+	UNIQUEID=76E3CBE0403C11DF86229916D8FE683A
+
+-
+
+#URL
+	ID=217
+	NAME=Wykop.pl - [3600+] Kanał YT - WYKŁADY: Informatyka, Elektronika, Matma.. {hej polibudo!}
+	URL=http://www.wykop.pl/ramka/199257/3600-kanal-yt-wyklady-informatyka-elektronika-matma-hej-polibudo
+	CREATED=1245431522
+	UNIQUEID=7D1A8670403C11DF86249989E7E47D9E
+
+#FOLDER
+	ID=218
+	NAME=sieci neuronowe
+	CREATED=1270421477
+	UNIQUEID=94940BF0403C11DF8625E864342DD35C
+
+#URL
+	ID=219
+	NAME=Zrozumieć sieci neuronowe - devPytania
+	URL=http://devpytania.pl/questions/851/zrozumiec-sieci-neuronowe
+	CREATED=1267098259
+	UNIQUEID=99ACFA70403C11DF8627F0998F18976C
+
