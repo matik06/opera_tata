@@ -2,22 +2,31 @@ Opera Hotlist version 2.0
 Options: encoding = utf8, version=3
 
 #FOLDER
-	ID=236
-	NAME=stare 
+	ID=26
+	NAME=Kosz
+	CREATED=1273828082
+	TRASH FOLDER=YES
+	DELETABLE=NO
+	UNIQUEID=14C645A5B8A3470FB3B52CC32C97E2B8
+
+-
+
+#FOLDER
+	ID=27
+	NAME=stare
 	CREATED=1272923000
 	ACTIVE=YES
 	UNIQUEID=E46473A056FC11DF85BEF5177C619714
 
 #URL
-	ID=237
+	ID=28
 	NAME=Przedstawię mała analizę, oparta o blog i forum – Pokazywarka.pl
 	URL=http://pokazywarka.pl/txd6nn-2/
 	CREATED=1272277512
-	DESCRIPTION=
 	UNIQUEID=06045460511E11DF9D448F6242F02EBE
 
 #URL
-	ID=238
+	ID=29
 	NAME=Budowa mostu Rędzińskiego
 	URL=http://www.tuwroclaw.com/video,niezalezny-program-informacyjny-048,vid5-1-118.html
 	CREATED=1272665001
@@ -27,7 +36,7 @@ Options: encoding = utf8, version=3
 -
 
 #URL
-	ID=239
+	ID=30
 	NAME=Belgia - zakaz muzułmańskich zasłon twarzy
 	URL=http://www.tokfm.pl/Tokfm/1,102433,7831333,Belgia_jako_pierwszy_europejski_kraj_wprowadza_zakaz.html
 	CREATED=1272665153
@@ -35,7 +44,7 @@ Options: encoding = utf8, version=3
 	UNIQUEID=96F1250054A411DF86049EB8460CFE3E
 
 #URL
-	ID=240
+	ID=31
 	NAME=YouTube - Jewropejskij Sojuz
 	URL=http://www.youtube.com/watch?v=tiWgQDEHchs
 	CREATED=1272822179
@@ -43,7 +52,7 @@ Options: encoding = utf8, version=3
 	UNIQUEID=2735EDD0561211DF965186C11D006456
 
 #URL
-	ID=241
+	ID=32
 	NAME=Wizy dla USA czas wprowadzić! Koniec łaszenia się! - Informacje w Interia360.pl - wiadomości, dziennikarstwo obywatelskie
 	URL=http://interia360.pl/artykul/wizy-dla-usa-czas-wprowadzic-koniec-laszenia-sie,34273
 	CREATED=1272822459
@@ -51,7 +60,7 @@ Options: encoding = utf8, version=3
 	UNIQUEID=CE5262B0561211DF9652D3398F8BF45C
 
 #URL
-	ID=242
+	ID=33
 	NAME=Akcyza po polsku - Podatki w Onet.pl
 	URL=http://podatki.onet.pl/akcyza-po-polsku,19923,3218034,1,prasa-detal
 	CREATED=1272822925
@@ -59,15 +68,14 @@ Options: encoding = utf8, version=3
 	UNIQUEID=E41939B0561311DF9654F1CDB56E239A
 
 #URL
-	ID=243
+	ID=34
 	NAME=Ekolodzy oszukują ludzi w sprawie zmian klimatu
 	URL=http://www.bibula.com/?p=11755
 	CREATED=1272923070
-	DESCRIPTION=
 	UNIQUEID=17B114C056FD11DF85BF8C2E37F8470D
 
 #URL
-	ID=244
+	ID=35
 	NAME=Kraj, którego nie chcą już sami obywatele
 	URL=http://www.dziennik.pl/swiat/article599022/Kraj_ktorego_nie_chca_juz_sami_obywatele.html
 	CREATED=1272974764
@@ -75,19 +83,16 @@ Options: encoding = utf8, version=3
 	UNIQUEID=734F4810577511DF9F11E468FDF05965
 
 #URL
-	ID=246
+	ID=36
 	NAME=Żarówki energooszczędne
 	URL=http://rafalkosik.com/zarowki-energooszczedne
 	CREATED=1273017928
-	DESCRIPTION=
 	UNIQUEID=F05D99B057D911DF863B882D5D0425CE
 
-#FOLDER
-	ID=245
-	NAME=Kosz
-	CREATED=1272154624
-	TRASH FOLDER=YES
-	UNIQUEID=4E1601F6F30511DB9CA51FD19A7AAECA
-
--
+#URL
+	ID=37
+	NAME=zatoka meksykańska - zdjęcia z katastrofy
+	URL=http://www.boston.com/bigpicture/2010/05/disaster_unfolds_slowly_in_the.html
+	CREATED=1273828184
+	UNIQUEID=6FD324C05F3811DF8694FEC14D9071AD
 

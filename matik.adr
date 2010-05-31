@@ -519,7 +519,7 @@ Options: encoding = utf8, version=3
 	NAME=Matthew::blog
 	URL=http://blog.matthew.org.pl/
 	CREATED=1270421885
-	VISITED=1273618363
+	VISITED=1275249995
 	UNIQUEID=8ABC4060403D11DF86389AC5EA9B4548
 
 #URL
@@ -535,6 +535,7 @@ Options: encoding = utf8, version=3
 	NAME=Ewangelizacja IT (Java, Architektura, SOA)
 	URL=http://www.mariuszlipinski.pl/
 	CREATED=1270422242
+	VISITED=1274648959
 	UNIQUEID=6029B3E0403E11DF863EDA839E3D4D4C
 
 #URL
@@ -559,7 +560,7 @@ Options: encoding = utf8, version=3
 	NAME=XP-Dev.com - Free Subversion Hosting (SVN Hosting), Version Control, Project Tracking - Home
 	URL=http://www.xp-dev.com/
 	CREATED=1243700718
-	VISITED=1269897742
+	VISITED=1274095970
 	DESCRIPTION=XP-Dev.com provides commercial grade Subversion Hosting (SVN Hosting) and Project Management tools
 	UNIQUEID=814C7D604D3611DE8444DFFE1CF8B6D9
 
@@ -651,7 +652,7 @@ Options: encoding = utf8, version=3
 	NAME=Online Reference Documentation
 	URL=http://doc.trolltech.com/
 	CREATED=1268260857
-	VISITED=1268260922
+	VISITED=1273828690
 	UNIQUEID=06948F002C9611DF862986A8426A5023
 
 #URL
@@ -713,7 +714,7 @@ Options: encoding = utf8, version=3
 	NAME=Ewangelizacja IT (Java, Architektura, SOA)
 	URL=http://www.mariuszlipinski.pl/
 	CREATED=1265292227
-	VISITED=1270422237
+	VISITED=1274648959
 	UNIQUEID=E8CEA870403B11DF86068B13810C8E8C
 
 #URL
@@ -816,6 +817,7 @@ Options: encoding = utf8, version=3
 	NAME=JAVA exPress
 	URL=http://www.javaexpress.pl/
 	CREATED=1270422159
+	VISITED=1275148581
 	UNIQUEID=30A7D660403E11DF863BF2C92637815A
 
 #URL
@@ -896,7 +898,7 @@ Options: encoding = utf8, version=3
 	NAME=[POŁĄCZONE] CD-Action *Wszystko* - Strona 12 - polish:Elite:board
 	URL=http://peb.pl/gazety-i-czasopisma/64068-polaczone-cd-action-wszystko-12.html
 	CREATED=1252443015
-	VISITED=1269876412
+	VISITED=1274220067
 	DESCRIPTION=CD ACTION 08/2009 Kod: http://hotfile.com/dl/10291038/e288c49/CDA.08.09.pdf.html
 	UNIQUEID=3B4676909CB911DE85ABA4F548D80B1A
 
@@ -1102,7 +1104,7 @@ Options: encoding = utf8, version=3
 	NAME=Mówiący słownik angielskiego online - Diki.pl
 	URL=http://www.diki.pl/
 	CREATED=1256845829
-	VISITED=1268170799
+	VISITED=1274819942
 	DESCRIPTION=Bezpłatny słownik angielsko-polski online. Oferuje tłumaczenia, przykładowe zdania, nagrania wymowy, obrazki.
 	UNIQUEID=5096D570C4C411DE979D93F69C9FEB89
 
@@ -1528,4 +1530,35 @@ Options: encoding = utf8, version=3
 	URL=http://devpytania.pl/questions/851/zrozumiec-sieci-neuronowe
 	CREATED=1267098259
 	UNIQUEID=99ACFA70403C11DF8627F0998F18976C
+
+-
+
+-
+
+#URL
+	ID=220
+	NAME=Wykop.pl - Zobacz: Strona z MNÓSTWEM tapet !
+	URL=http://www.wykop.pl/ramka/366701/strona-z-mnostwem-tapet/
+	CREATED=1273914221
+	VISITED=1274534450
+	DESCRIPTION=Zobacz wykop: Strona zawiera masę tapet o przeróżnej tematyce. Z pewnością każdy znajdzie coś dla siebie.
+	UNIQUEID=C238C0D0600011DF955A86B4BE48F3EA
+
+#URL
+	ID=221
+	NAME=shijousaikyounodeshikenichi
+	URL=http://www.urusai.pl/anime/shijousaikyounodeshikenichi
+	CREATED=1274529249
+	VISITED=1274690361
+	DESCRIPTION=Dzięki naszej stronie możesz obejrzeć 9600 odcinków anime online, z 508 serii o różnej tematyce - komedie, romanse, fantasy, sci-fi, anime akcja, kryminały, anime sportowe, pełnometrażowe filmy anime, hentai, yaoi, yuri, horrory i wiele innych. Liczba linków do anime online codziennie rośnie. Na stronie shijousaikyounodeshikenichi znajdziesz zarówno najbardziej popularne serie anime w wersji online i opisy do nich, jak np Naruto, Bleach, Skip beat, jak też te anime, których nigdzie indziej nie znajdziesz - na przykła seria Tytania. Ale urusai to nie tylko darmowe odcinki Anime - uzupełnieniem dla tego bogactwa anime online są współpracujące ze stroną Radio urusai.pl i grupa skanlacyjna Baka Neko?! Niewątpliwą atrakcją naszego forum jest sympatyczny, uczący się bot Suzumyia Haruhi. Ale przede wszystkim - Anime codziennie nowe odcinki.Tylko u nas najlepsze anime które obejrzysz online.Forum anime,Anime,AnimeOnline,Anime-online,anime dla ciebie !, ANIME - odmieniane przez wszystkie przypadki i na wszystkie sposoby - słowem skarbnica anime dla Ciebie!!
+	UNIQUEID=BB03B160659811DF95B2E4C3F7257A32
+
+#URL
+	ID=222
+	NAME=Death Note - odcinki online - Kreskowki.org
+	URL=http://www.kreskowki.org/death-note/
+	CREATED=1274691718
+	VISITED=1274814373
+	DESCRIPTION=Najnowsze odcinki online bajki Death Note. Akcja odcinka toczy się w świecie Shinigami, już po zakończeniu fabuły głównej serii. Narratorem jest Ryuk, który zapytany przez innego shinigami o świat ludzi, opowiada o L, Kirze i wydarzeniach prowadzących do pojawienia się w serii Mello i Neara.
+	UNIQUEID=028ED980671311DF9236E1AA9ACD9BB1
 
